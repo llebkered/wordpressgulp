@@ -1,6 +1,6 @@
 # Wordpress Theme Gulp Starter
 
-v 1.0
+v 1.1
 
 20/2/2017
 
@@ -18,4 +18,4 @@ There are other options in the Gulpfile to combine and minify SVG's but these ha
 
 2. Adjust Gulpfile  and package.json to suit your needs
 
-3. Run *npm install* to install the node packages.
+3. Run *npm install* or *yarn*  to install the node packages.
