@@ -1,16 +1,17 @@
 # Wordpress Theme Gulp Starter
 
-v 1.1
+v 2.0
 
-20/2/2017
+3/5/2020
 
-A very simple starter package for Gulp and a blank Wordpress theme. I usually use underscores as my Starter theme.
+A very simple starter package for Gulp and a blank Wordpress theme. 
 
 This version only compiles SASS into CSS.
 
 There are other options in the Gulpfile to combine and minify SVG's but these have been commented out.
 
-* [underscores.me](underscores.me)
+* [underscores.me](https://underscores.me)
+* [timber](https://github.com/timber/timber)
 
 ## Instructions
 
